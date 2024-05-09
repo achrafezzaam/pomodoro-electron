@@ -1,0 +1,23 @@
+{
+  "name": "pomodoro",
+  "version": "1.0.0",
+  "description": "A productivity app using the pomodor technique",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achrafezzaam/pomodoro-electron.git"
+  },
+  "author": "Achraf Ezzaam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achrafezzaam/pomodoro-electron/issues"
+  },
+  "homepage": "https://github.com/achrafezzaam/pomodoro-electron#readme",
+  "devDependencies": {
+    "electron": "^30.0.3"
+  }
+}
